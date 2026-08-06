@@ -1,0 +1,27 @@
+# Reflection Paper – Cloud Concepts
+
+## Cloud Services I Use
+
+In my everyday activities, I frequently use four cloud-based services: **Google Classroom**, **Google Drive**, **TikTok**, and **GCash**.
+
+**Google Classroom** plays an important role in my studies by allowing me to access lessons, complete and submit assignments, and communicate with my instructors.
+**Google Drive** serves as a secure online storage platform where I can save, organize, and share my files, making them available whenever and wherever I need them.
+**TikTok** is more than just a source of entertainment for me because I also use it to support my affiliate business by promoting products and interacting with potential customers. Meanwhile,
+**GCash** makes online transactions simple and convenient by enabling me to send money, pay bills, and make purchases through my mobile device.
+
+## Cloud Service Models
+
+* **Google Classroom** → *Software as a Service (SaaS), Public Cloud*. It is a cloud-hosted application provided by Google that users can access through their accounts without installing or maintaining the underlying system.
+* **Google Drive** → *Software as a Service (SaaS), Public Cloud*. It offers online file storage and sharing, allowing users to manage their documents without handling the supporting infrastructure.
+* **TikTok** → *Software as a Service (SaaS), Public Cloud*. This cloud-based social media platform, developed by ByteDance, is available to users worldwide for content creation, entertainment, and business purposes.
+* **GCash** → *Software as a Service (SaaS), Public Cloud*. It is a digital financial platform that provides secure online payment and money transfer services through mobile devices.
+
+These applications fall under the **SaaS** model because users can access the software directly without managing servers or hardware. They are also considered part of the **Public Cloud** since they are hosted by service providers and are available for public use.
+
+## Git and GitHub in Cloud Projects
+
+Version control is an essential component of cloud-based projects because it records every modification made to a project, making it easy to review or restore previous versions whenever necessary. If an error occurs, developers can quickly return to an earlier version without losing important work.
+
+For collaborative projects, such as capstone development, **GitHub** provides an effective platform for team members to work together by managing code changes, combining contributions, and tracking updates. This helps minimize duplicated work, improves accountability, and reduces the likelihood of conflicts.
+
+In addition, GitHub maintains a complete history of all project revisions, making it easier to identify changes, resolve issues, and manage cloud-based development efficiently. Overall, version control and GitHub play a significant role in improving collaboration, maintaining project accuracy, and ensuring the reliability of cloud computing projects.
