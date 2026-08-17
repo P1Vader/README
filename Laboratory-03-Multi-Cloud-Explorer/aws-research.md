@@ -36,9 +36,6 @@ The AWS Management Console is a web-based dashboard where users can create, moni
 
 ## Screenshot
 
-> Insert your screenshot of the official AWS homepage or AWS Management Console here.
-
-![AWS Homepage](screenshots/aws-homepage.png)
 
 ## References
 
